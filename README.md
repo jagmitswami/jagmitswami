@@ -24,3 +24,7 @@ ABOUT ME
 * ⚡ Childhood interest: Horse Riding.
 * 📫 How to reach me: https://www.linkedin.com/in/jagmit-swami-996995258/
 * 😄 You can find my project on my portfolio: https://github.com/jagmitswami/jagmitswami.github.io
+
+MY STATS
+---------------------------------------------------------------------------------------------------
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jagmitswami&theme=ayu-mirage)](https://git.io/streak-stats)
