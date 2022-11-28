@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+ABOUT ME
+---------------------------------------------------------------------------------------------------
 
 
 * 👯 Full Stack Web Development  with HTML, CSS and JAVASCRIPT.
 * 🌱 I’m currently learning Backend Development with JAVA.
 * ⚡ Childhood interest: Horse Riding.
+* 📫 How to reach me: https://www.linkedin.com/in/jagmit-swami-996995258/
+* 😄 You can find my project on my portfolio: https://github.com/jagmitswami/jagmitswami.github.io
