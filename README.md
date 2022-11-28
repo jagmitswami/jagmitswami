@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+
+
 * 👯 Full Stack Web Development  with HTML, CSS and JAVASCRIPT.
 * 🌱 I’m currently learning Backend Development with JAVA.
+* ⚡ Childhood interest: Horse Riding.
