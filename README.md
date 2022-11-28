@@ -31,4 +31,4 @@ MY STATS
 
 LANGUAGES USED
 ---------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagmitswami)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagmitswami&layout=compact)](https://github.com/jagmitswami/github-readme-stats)
