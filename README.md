@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ABOUT ME
 ---------------------------------------------------------------------------------------------------
 
-
+<img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
 * 👯 Full Stack Web Development  with HTML, CSS and JAVASCRIPT.
 * 🌱 I’m currently learning Backend Development with JAVA.
-* ⚡ Childhood interest: Horse Riding. <img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
+* ⚡ Childhood interest: Horse Riding.
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/jagmit-swami-996995258/">LinkdIn</a>
 * 😄 You can find my project on my portfolio: <a href="https://github.com/jagmitswami/jagmitswami.github.io">Portfolio</a>
 
