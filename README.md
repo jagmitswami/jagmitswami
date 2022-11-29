@@ -1,5 +1,5 @@
 ### Hi 👋 JAGMIT here.
-![alt text](https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif)
+![alt text](https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif =250x250)
 <!--
 **jagmitswami/jagmitswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
