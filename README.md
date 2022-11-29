@@ -1,6 +1,5 @@
 ### Hi 👋 JAGMIT here.
-![alt text](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
+
 <!--
 **jagmitswami/jagmitswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +21,7 @@ ABOUT ME
 
 * 👯 Full Stack Web Development  with HTML, CSS and JAVASCRIPT.
 * 🌱 I’m currently learning Backend Development with JAVA.
-* ⚡ Childhood interest: Horse Riding.
+* ⚡ Childhood interest: Horse Riding. <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/jagmit-swami-996995258/">LinkdIn</a>
 * 😄 You can find my project on my portfolio: <a href="https://github.com/jagmitswami/jagmitswami.github.io">Portfolio</a>
 
