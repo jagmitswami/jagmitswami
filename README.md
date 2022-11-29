@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ABOUT ME
 ---------------------------------------------------------------------------------------------------
 
-<img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
+<img width="200px" align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
 * 👯 Full Stack Web Development  with HTML, CSS and JAVASCRIPT.
 * 🌱 I’m currently learning Backend Development with JAVA.
 * ⚡ Childhood interest: Horse Riding.
