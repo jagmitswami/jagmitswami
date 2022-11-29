@@ -19,8 +19,10 @@ ABOUT ME
 ---------------------------------------------------------------------------------------------------
 
 
-* 👯 Full Stack Web Development  with HTML, CSS and JAVASCRIPT. <img width="400px" align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
-* 🌱 I’m currently learning Backend Development with JAVA.
+* 👯 Front Development with HTML, CSS and JAVASCRIPT. <img width="400px" align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
+* 👯 Backend Development with JAVA.
+* ⚡ Key skills: Data Structures and Algorithms.
+* 🌱 Always in progress: Code optimization.
 * ⚡ Childhood interest: Horse Riding.
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/jagmit-swami-996995258/">LinkdIn</a>
 * 😄 You can find my project on my portfolio: <a href="https://github.com/jagmitswami/jagmitswami.github.io">Portfolio</a>
