@@ -1,6 +1,6 @@
 ### Hi 👋 JAGMIT here.
 ![alt text](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-<img src="https://github.com/asd/privategithubrepo/images/output/video1.gif" width="100">
+<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
 <!--
 **jagmitswami/jagmitswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
