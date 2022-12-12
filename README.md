@@ -30,7 +30,7 @@ ABOUT ME
 
 MY STATS
 ---------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jagmitswami&theme=ayu-mirage)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jagmitswami=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 LANGUAGES USED
 ---------------------------------------------------------------------------------------------------
