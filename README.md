@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ABOUT ME
 ---------------------------------------------------------------------------------------------------
 
-* <img width="400px" align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
+
 * 👯 Front Development with HTML, CSS and JAVASCRIPT.
+* <img width="400px" align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated"/>
 * 👯 Backend Development with JAVA.
 * ⚡ Key skills: Data Structures and Algorithms.
 * 🌱 Always in progress: Code optimization.
