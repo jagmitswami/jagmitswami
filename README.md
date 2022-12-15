@@ -36,4 +36,4 @@ MY STATS
 
 LANGUAGES USED
 ---------------------------------------------------------------------------------------------------
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jagmitswami&theme=chartreuse-dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagmitswami&show_icons=true&locale=en&layout=compact&theme=onedark" alt="somyakant9" /></p>
