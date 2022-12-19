@@ -34,7 +34,7 @@ LANGUAGES AND TOOLS
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" alt="javascript" width="50" height="50"/>
+  <img src="https://thumbnail.imgbin.com/1/19/8/imgbin-javascript-logo-html-comment-blog-others-rYkexXzhunDcAfiR8EJUGRYh9_t.jpg" alt="javascript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
