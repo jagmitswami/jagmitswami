@@ -28,6 +28,7 @@ ABOUT ME
 * ⚡ Childhood interest: Horse Riding.
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/jagmit-swami-996995258/">LinkdIn</a>
 * 😄 You can find my project on my portfolio: <a href="https://jagmitswami.github.io/">Portfolio</a>
+* 📫 <a href="Profile/Resume.pdf" download=""><b>Resume</b></a>
 
 LANGUAGES AND TOOLS
 ---------------------------------------------------------------------------------------------------
