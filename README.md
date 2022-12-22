@@ -34,12 +34,13 @@ ABOUT ME
 LANGUAGES AND TOOLS
 ---------------------------------------------------------------------------------------------------
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+  ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 </p>
 
 MY STATS
