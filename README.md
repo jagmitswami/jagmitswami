@@ -1,5 +1,4 @@
-### Hi, JAGMIT here ✨
-<img src="https://komarev.com/ghpvc/?username=jagmitswami&label=Profile%20views&color=0e75b6&style=flat" alt="j" />
+### Hi, JAGMIT here ✨ <img src="https://komarev.com/ghpvc/?username=jagmitswami&label=Profile%20views&color=0e75b6&style=flat" alt="j" />
 JAVA Backend Developer, one who is working on being efficient enough in DSA as well and leveling it up.
 I'm drived by the motive of developing optimized applications, always looking the room for improvements. I like to work as a team and collaborate in projects.
 <!--
