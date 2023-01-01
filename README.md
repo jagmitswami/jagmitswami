@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-ABOUT ME <img src="https://komarev.com/ghpvc/?username=jagmitswami&label=Profile%20views&color=0e75b6&style=flat" alt="j" />
+ABOUT ME   <img src="https://komarev.com/ghpvc/?username=jagmitswami&label=Profile%20views&color=0e75b6&style=flat" alt="j" />
 ---------------------------------------------------------------------------------------------------
 
 
