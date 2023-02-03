@@ -29,7 +29,7 @@ ABOUT ME   <img src="https://komarev.com/ghpvc/?username=jagmitswami&label=Profi
 * 📫 Send <a href="mailto:jagmitswami@gmail.com">Mail</a>
 * 📫 Connect with me on <a href="https://www.linkedin.com/in/jagmit-swami-996995258/">LinkdIn</a>
 * 📫 You can find my projects on my <a href="https://jagmitswami.github.io/">Portfolio</a>
-* 📫 Download <a href="https://drive.google.com/file/d/19RZ5Ufc7hxKSDMG_I0mo-qkAbltBb7wR/view?usp=sharing" download=""><b>Resume</b></a>
+* 📫 Download <a href="https://drive.google.com/file/d/10Pbz_sipt-qR3D8dyCI8dGdtBWOjIl1z/view?usp=sharing" download=""><b>Resume</b></a>
 
 LANGUAGES AND TOOLS
 ---------------------------------------------------------------------------------------------------
