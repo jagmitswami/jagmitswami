@@ -1,6 +1,5 @@
 ### Hi, JAGMIT here ✨
-JAVA Backend Developer, one who is working on being efficient enough in DSA as well and leveling it up.
-I'm drived by the motive of developing optimized applications, always looking the room for improvements. I like to work as a team and collaborate in projects.
+JAVA Backend Developer, working on being efficient in DSA and drived by the motive of developing optimized applications. Always looking for improvements and, likes to work as a team to collaborate in projects.
 <!--
 **jagmitswami/jagmitswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
