@@ -1,4 +1,4 @@
-## Hi, JAGMIT here ✨
+# Hi, JAGMIT here ✨
 JAVA Backend Developer, working on being efficient in DSA and drived by the motive of developing optimized applications. Always looking for improvements and, likes to work as a team to collaborate in projects.
 <!--
 **jagmitswami/jagmitswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
