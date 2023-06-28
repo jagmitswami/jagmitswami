@@ -35,15 +35,18 @@ LANGUAGES AND TOOLS
 ---------------------------------------------------------------------------------------------------
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=Hibernate)
+  ![SpringBoot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+  ![SpringSecurity](https://img.shields.io/badge/-Springsecurity-000?&logo=Springsecurity)
+  ![JWT](https://img.shields.io/badge/-Jwt-000?&logo=Jwt)
+  ![Microservices](https://img.shields.io/badge/-Microservices-000?&logo=Microservices)
+  ![SpringCloud](https://img.shields.io/badge/-Springcloud-000?&logo=Springcloud)
   ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
   ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+  ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 
 MY STATS
 ---------------------------------------------------------------------------------------------------
