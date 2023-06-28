@@ -33,13 +33,17 @@ ABOUT ME   <img src="https://komarev.com/ghpvc/?username=jagmitswami&label=Profi
 
 LANGUAGES AND TOOLS
 ---------------------------------------------------------------------------------------------------
+  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+  ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
   ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
   ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-  ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 MY STATS
 ---------------------------------------------------------------------------------------------------
